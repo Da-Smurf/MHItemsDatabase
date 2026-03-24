@@ -1954,7 +1954,7 @@
   },
   {
     "id": 39,
-    "name": "Behemoth Blossom/Renegade",
+    "name": "Renegade Behemoth Blossom",
     "description": "This flower was only a seed last night. In the morning it was consuming the entire backyard! Its pollen is capable of making ore grow!",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -3295,7 +3295,7 @@
   },
   {
     "id": 56,
-    "name": "Burst Refiner/Renegade",
+    "name": "Renegade Burst Refiner",
     "description": "Charges up energy as ore passes through and bursts all of its power into a single ore when it's full. Vanishes when you rebirth.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -7988,7 +7988,7 @@
   },
   {
     "id": 138,
-    "name": "Dystopian Refiner/Renegade",
+    "name": "Renegade Dystopian Refiner",
     "description": "The Dystopian Refiner is harsh and crude, only upgrading ores by how much they \"deserve.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -14190,7 +14190,7 @@
   },
   {
     "id": 620,
-    "name": "Incendium Mine/Renegade",
+    "name": "Renegade Incendium Mine",
     "description": "Can fire burn? The flaming Incendium Mine fires flaming ore that must be put out to prevent it from being destroyed. Vanishes when you rebirth.",
     "category": "Dropper",
     "tier": "Renegade",
@@ -15882,7 +15882,7 @@
   },
   {
     "id": 259,
-    "name": "Lunar Spectacle/Renegade",
+    "name": "Renegade Lunar Spectacle",
     "description": "Without the darkness of the night, you cannot truly appreciate the beauty of those that stay bright.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -17000,6 +17000,28 @@
       "Drawbacks": "Caps at x55k or at life 110k"
     }
   },
+    {
+    "id": null,
+    "name": "Nature's Enchantment",
+    "description": "This ghastly furnace grants ores value based on the tycoon owners [sic] life but vanishes when you rebirth.",
+    "category": "Furnace",
+    "tier": "Renegade",
+    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/31/Nature%27s_Enchantment.png",
+    "wikiUrl": "https://minershaven.fandom.com/wiki/Nature's_Enchantment",
+    "properties": {
+      "Tier": "Renegade",
+      "Item Size": "8x7x6",
+      "Date Added": "25 June, 2024",
+      "Effects": "Processes ore at (Life÷2)x its value",
+      "Created By": "SeenVerge · SoberBrew, Crushieyot · S_tarlit · PokemonMaster8619",
+      "Sacrifice Proof": "No",
+      "Drawbacks": "Multiplier caps at x22,500"
+      "Reborn Proof": "Yes",
+      "Sacrifice Proof": "No",
+      "Sell Value": "Can't Sell",
+      "Cost": "Can't Buy"
+    }
+  },
   {
     "id": 1221,
     "name": "Nature's Grip",
@@ -17206,7 +17228,7 @@
   },
   {
     "id": 278,
-    "name": "Neutropian Refiner/Renegade",
+    "name": "Renegade Neutropian Refiner",
     "description": "A true balance between utopia and dystopia. If only the previous empire knew this, it would never have collapsed.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -17702,7 +17724,7 @@
   },
   {
     "id": 640,
-    "name": "Oblivion Weaver/Renegade",
+    "name": "Renegade Oblivion Weaver",
     "description": "Lurking in the Void is the Oblivion Weaver: these beasts consume antimatter and use it to create super-charged explosions. Maybe those explosions can be of use to you.",
     "category": "Dropper",
     "tier": "Renegade",
@@ -18128,7 +18150,7 @@
   },
   {
     "id": 298,
-    "name": "Orbital Cataclysm/Renegade",
+    "name": "Renegade Orbital Cataclysm",
     "description": "Rogue colonies from other planets may attempt to invade us if we try growing too powerful.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -21297,7 +21319,7 @@
   },
   {
     "id": 660,
-    "name": "Pulsar Octagnium Mine/Renegade",
+    "name": "Renegade Pulsar Octagnium Mine",
     "description": "An absurdly powerful mine that samples the highest valued ore on your base and replicates it eight times. Vanishes when you rebirth.",
     "category": "Dropper",
     "tier": "Renegade",
@@ -24407,7 +24429,7 @@
   },
   {
     "id": 417,
-    "name": "Sinister Sepulcher/Renegade",
+    "name": "Renegade Sinister Sepulcher",
     "description": "It is said that Charon's soul was locked away within this structure. The lack of soul leaves his being emotionless, making him the most menacing warden within Tartarus.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -24462,7 +24484,7 @@
   },
   {
     "id": 419,
-    "name": "Skydance Serenade/Renegade",
+    "name": "Renegade Skydance Serenade",
     "description": "Constructed with only the most majestic instruments from cities beyond, a soothing serenade strums as ores pass by.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -26418,7 +26440,7 @@
   },
   {
     "id": 459,
-    "name": "Suitopian Refiner/Renegade",
+    "name": "Renegade Suitopian Refiner",
     "description": "An item that can be used 10 times! However it has a risky chance of taking everything your ore owns.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -28139,7 +28161,7 @@
   },
   {
     "id": 500,
-    "name": "The Grand Prism/Renegade",
+    "name": "Renegade The Grand Prism",
     "description": "Most miners will live out their entire lives having never gazed upon the beauty and grace of the mythic Grand Prism.",
     "category": "Upgrader",
     "tier": "Renegade",
@@ -29921,7 +29943,7 @@
   },
   {
     "id": 539,
-    "name": "Utopian Refiner/Renegade",
+    "name": "Renegade Utopian Refiner",
     "description": "The Utopian Refiner sees value in all ores. It offers a massive upgrade and sends you on your way.",
     "category": "Upgrader",
     "tier": "Renegade",
