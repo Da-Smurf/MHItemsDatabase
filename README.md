@@ -38,6 +38,56 @@ Add a new item object or update an existing one in [`data/items.json`](https://g
 }
 ```
 
+For the tiers of the items, use the format below:
+
+```typescript
+[
+  'Common',
+  'Uncommon',
+  'Rare',
+  'Super Rare',
+  'Unique',
+  'Epic',
+  'Legendary',
+  'Mythic',
+  'Divine',
+  'Almighty',
+  'Godly',
+  'Reborn',
+  'Decimal Reborn',
+  'Limited Reborn',
+  'Evolved Reborn',
+  'Reborn Fusion',
+  'Advanced Reborn',
+  'Advanced Evolution',
+  'Advanced Fusion',
+  'Shiny Reborn',
+  'Shiny Evolution',
+  'Premium',
+  'Refined',
+  'Exotic',
+  'ExoticHalloween',
+  'ExoticBirthday',
+  'ExoticHolidays',
+  'ExoticAutumn',
+  'ExoticSpring',
+  'ExoticValentines',
+  'ExoticSummer',
+  'ExoticClover',
+  'Eggxotic',
+  'CollectibleEaster',
+  'CollectibleHalloween',
+  'CollectibleHolidays',
+  'CollectibleClover',
+  'CollectibleBirthday',
+  'CollectibleValentines',
+  'Renegade',
+  'Shiny Renegade',
+  'Relic Holidays',
+  'Relic Halloween',
+]
+```
+
 Everything outside of `properties` should keep this same structure:
 
 - `id`
