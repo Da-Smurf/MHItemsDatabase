@@ -1975,7 +1975,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
-      "Cost": "Can't Buy"
+      "Cost": "Can't Buy",
       "MPU": "x1.53 (upgrade count < 20) · x1.32 (upgrade count ≥ 20)"
     }
   },
@@ -12875,6 +12875,7 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/11/Havium_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Havium_Mine",
     "properties": {
+      "Overview": "The Havium Mine is a <a href='https://minershaven.fandom.com/wiki/Category:Superstitious'>Superstitious</a>-<a href='https://minershaven.fandom.com/wiki/Item_Tiers'>tier</a> <a href='https://minershaven.fandom.com/wiki/Category:Mine'>mine</a> added in the <a href='https://minershaven.fandom.com/wiki/Category:Mine'>Reincarnation Update</a>. This mine's ores have the highest value in game and in addition to that, several bonus properties including immunity to poison, frostbite and radiation. The ore is also protected by 3 shields, a powerful attribute shared only by the <a href='https://minershaven.fandom.com/wiki/Category:Mine'>SpookBaron-360,000</a>. These shields protect the ore from getting destroyed by anything except educators such as the <a href='https://minershaven.fandom.com/wiki/Draedon%27s_Gauntlet'>Draedon's Gauntlet</a>. All the 3 shields can be removed by the <a href='https://minershaven.fandom.com/wiki/Witch%27s_Cauldron'>Witch's Cauldron</a>, an <a href='https://minershaven.fandom.com/wiki/Ore_Sawmill'>Ore Sawmill</a> or <a href='https://minershaven.fandom.com/wiki/Ore_Chainsaw'>its successor</a>.\n\nAs Havium ores are immune to poison, frostbite and radiation, they do not work with upgraders that require these attributes to work.\n\nUpon placement, it emits the sound of torches being lit. This sound is shared with Pandora's Box.\n\nThis mine is based off of the now dead God of Earth in Miner's Haven lore, <a href='https://minershaven.fandom.com/wiki/Atalia' style='color:#d83bff'>Atalia</a>.",
       "Tier": "Superstitious",
       "Item Size": "6x7x8",
       "Created By": "TheBlueMac55",
@@ -12882,10 +12883,11 @@
       "Ore Size": "1x1x1",
       "Ore Value": "$20sx to $300sx",
       "Ore Material": "Neon",
-      "Effects": "Bonus attributes to ores: · *Immune to Poison, Radiation, and Frostbite · *3 shields that protect against destruction",
-      "Drawbacks": "Certain items remove all shields: · Witch's Cauldron · Ore Sawmill · Ore Chainsaw",
+      "Effects": "<b>Bonus attributes to ores:\n</b><ol><span style='color:#fcba03;'>•&nbsp;</span> Immune to <span style='color:#d12bff'>Poison</span>, <span style='color:#2bff41'>Radiation</span>, and <span style='color:#3bfffc'>Frostbite</span> \n <span style='color:#fcba03;'>•&nbsp;</span> 3 shields that protect against <span style='color:#ff3b3b'>destruction</span></ol>",
+      "Drawbacks": "<b>Certain items remove all shields:</b><ol><span style='color:#fcba03;'>•&nbsp;</span> <a href='https://minershaven.fandom.com/wiki/Witch%27s_Cauldron'>Witch's Cauldron</a>\n <span style='color:#fcba03;'>•&nbsp;</span> <a href='https://minershaven.fandom.com/wiki/Ore_Sawmill'>Ore Sawmill</a>\n <span style='color:#fcba03;'>•&nbsp;</span> <a href='https://minershaven.fandom.com/wiki/Ore_Chainsaw'>Ore Chainsaw</a>",
       "Source": "Using the Catalyst of Earth and elements from Reborn-tier items with Draedon",
       "Upgrade Counter": "20",
+      "Cell Furnace": "Incompatible",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
@@ -17249,7 +17251,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
-      "Cost": "Can't Buy"
+      "Cost": "Can't Buy",
       "MPU": "No negative effects: x1.46 · Negative effects: x1.65"
     }
   },
@@ -18147,7 +18149,7 @@
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "6",
       "Cost": "Can't Buy",
-      "Sell Value": "Can't Sell"
+      "Sell Value": "Can't Sell",
       "MPU": "x1.37 (best scenario) · x1.06 (worst scenario)"
     }
   },
@@ -18174,7 +18176,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
-      "Cost": "Can't Buy"
+      "Cost": "Can't Buy",
       "MPU": "x1.28 (best scenario) · x1.00 (worst scenario)"
     }
   },
