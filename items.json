@@ -15013,7 +15013,7 @@
       "Tier": "Decimal Limited Reborn",
       "Item Size": "9x12x10",
       "Date Added": "12 June, 2020",
-      "Created By": "top-text='''\"The Grand 10\"''' · Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
+      "Created By": "Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
       "Item Events": "5th Anniversary · 6th Anniversary · 7th Anniversary · 8th Anniversary · 9th Anniversary · 10th Anniversary",
       "Effects": "Base Multiplier of x50 · Machine tags from other cake items increase multiplier by +10 · Machine tags from the following items also increase multiplier by +10 · Red Velvet Cake · Chocolate Cupcake · Blueberry Pie · Strawberry Cake · Caramel Birthday Cake",
       "Drawbacks": "Caps at x100",
@@ -21932,7 +21932,7 @@
       "Tier": "Decimal Limited Reborn",
       "Item Size": "13x12x10",
       "Date Added": "12 June, 2020",
-      "Created By": "top-text='''\"The Grand 10\"''' · Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
+      "Created By": "Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
       "Item Events": "5th Anniversary · 6th Anniversary · 7th Anniversary · 8th Anniversary · 9th Anniversary · 10th Anniversary",
       "Effects": "Base multiplier of x500 · Multiplier +1 for every life the user has surpassed · Multiplier +5.5k if King Birthday Cake Machine tag is present",
       "Drawbacks": "Life-affected multiplier caps at x5.5k (Life 5k) · Max total multiplier of x11k",
@@ -28235,7 +28235,7 @@
     }
   },
     {
-    "id": 1288,
+    "id": null,
     "name": "Renegade The Great Parasite",
     "description": "The Great Parasite is greedy, and requires additional ore from your base to feast upon.",
     "category": "Furnace",
