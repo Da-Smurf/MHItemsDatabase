@@ -1976,6 +1976,7 @@
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy"
+      "MPU": "x1.53 (upgrade count < 20) · x1.32 (upgrade count ≥ 20)"
     }
   },
   {
@@ -17327,6 +17328,7 @@
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy"
+      "MPU": "No negative effects: x1.46 · Negative effects: x1.65"
     }
   },
   {
@@ -18221,6 +18223,7 @@
       "Upgrade Counter": "6",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
+      "MPU": "x1.37 (best scenario) · x1.06 (worst scenario)"
     }
   },
   {
@@ -18244,9 +18247,10 @@
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "6",
       "Reborn Proof": "Yes",
-      "Sacrifice Proof": "No",
+      "Sacrifice Proof": "No",  
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy"
+      "MPU": "x1.28 (best scenario) · x1.00 (worst scenario)"
     }
   },
   {
