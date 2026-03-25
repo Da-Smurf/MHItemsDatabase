@@ -2717,7 +2717,7 @@
     "name": "Blue Ore Teleporter",
     "description": {
       "Sender": "Super advanced technology that teleporters ore to a receiver. If more than 1 receiver is down, it will pick one at random. REQUIRES A RECEIVER TELEPORTER.",
-      "Receiver": "A wide conveyor that teleported ore appears at. Requires a sender teleporter to work. If there is more than one receiver, teleports will pick them at random.",
+      "Receiver": "A wide conveyor that teleported ore appears at. Requires a sender teleporter to work. If there is more than one receiver, teleports will pick them at random."
     },
     "category": "Utility",
     "tier": "Rare",
@@ -4855,7 +4855,7 @@
     "wikiUrl": "https://minershaven.fandom.com/wiki/Chocolate_Coater",
     "properties": {
       "Tier": "CollectibleHalloween",
-      "Item Size": "{{ItemSize  ·  3x6  ·  3}}",
+      "Item Size": "3x6x3",
       "Date Added": "6 October, 2020",
       "Created By": "Jesssssssss_s · hoshiisan",
       "Item Events": "Halloween 2020 · Halloween 2021",
@@ -5330,7 +5330,7 @@
       "Effects": "High base multiplier of x42500",
       "Drawbacks": "*Multiplier decreases by -140x for every ore on your base. · *Minimum of x170.",
       "Source": "The Craftsman",
-      "Requirements": "18px · link=https://www.roblox.com/badges/2124516336/Triumphant [https://www.roblox.com/badges/2124516336/Triumphant Triumphant] Badge · Final Eclipse Gate x1 · Crystal Altar x1 · Tyrant's Forge x1 · Sage King x2 · Utopian Refiner x1 · Ancient Coliseum x2 · 753 Shards",
+      "Requirements": "[Triumphant] Badge · Final Eclipse Gate x1 · Crystal Altar x1 · Tyrant's Forge x1 · Sage King x2 · Utopian Refiner x1 · Ancient Coliseum x2 · 753 Shards",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Cost": "''See Item Requirements''",
@@ -8306,7 +8306,7 @@
       "Sell Value": "Can't sell",
       "Item Events": "Easter 2020 · Easter 2021",
       "Source": "Redeem at Flea Bag",
-      "Requirements": "Eggscream Badge","
+      "Requirements": "Eggscream Badge"
     }
   },
   {
@@ -8993,10 +8993,11 @@
   },
   {
     "id": 779,
-    "name": "Fargield's Toppling Tablet™️",
+    "name": "Fargield's Toppling Tablet",
     "description": {
       "Straight": "The cats are probably trying to tell us something, maybe they're trying to tell us that one course of action will result in a domino effect",
-      "Turned": "Maybe the domino effect is very true today, who knows. It doesn't matter though, what does matter is you have some dominoes with Fargield's face on them.",
+      "Turned": "Maybe the domino effect is very true today, who knows. It doesn't matter though, what does matter is you have some dominoes with Fargield's face on them."
+    },
     "category": "Decoration",
     "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5f/Fargield%27s_Toppling_Tablet%E2%84%A2%EF%B8%8F.png",
@@ -12003,7 +12004,7 @@
     "name": "Goliath Skull",
     "description": {
       "Sender": "Titans couldn't ever perish. These skulls are said to resemble the skulls of the two living Titans: Solumn and Kromos.",
-      "Receiver": "After tormenting ore, this skull will release the ore it has consumed. The ore released would be stained with crimson fluid.",
+      "Receiver": "After tormenting ore, this skull will release the ore it has consumed. The ore released would be stained with crimson fluid."
     },
     "category": "Upgrader",
     "tier": "ExoticHalloween",
@@ -13764,7 +13765,7 @@
     "wikiUrl": "https://minershaven.fandom.com/wiki/Hydraulic_Teleporter",
     "properties": {
       "Tier": "Hydraulic",
-      "Item Size": " · 2x2x2 units (Sender · 5x5x2 units (Receiver)",
+      "Item Size": " · 2x2x2 units (Sender) · 5x5x2 units (Receiver)",
       "Date Added": "18 November, 2019",
       "Created By": "eroomad",
       "Effects": "Teleports ores to any height.",
@@ -13785,7 +13786,7 @@
     "description": {
       "Corner": "A corner walkway for making turns.",
       "Stairway": "Ladders were overrated anyways...",
-      "Straight": "A straight walkway for walking safely across.",
+      "Straight": "A straight walkway for walking safely across."
     },
     "category": "Decoration",
     "tier": "Hydraulic",
@@ -14928,7 +14929,7 @@
       "Date Added": "6 October, 2020",
       "Created By": "TekaFlash",
       "Item Events": "Halloween Event 2020 · Halloween Event 2021",
-      "Source": "Talking to Chad the Elf after obtaining the [https://www.roblox.com/badges/2124627863/Apocalyptic Apocalyptic] badge.",
+      "Source": "Talking to Chad the Elf after obtaining the [Apocalyptic] badge.",
       "Reborn Proof": "Yes",
       "Soulbound": "Yes"
     }
@@ -15013,7 +15014,7 @@
       "Tier": "Decimal Limited Reborn",
       "Item Size": "9x12x10",
       "Date Added": "12 June, 2020",
-      "Created By": "Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
+      "Created By": " · Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
       "Item Events": "5th Anniversary · 6th Anniversary · 7th Anniversary · 8th Anniversary · 9th Anniversary · 10th Anniversary",
       "Effects": "Base Multiplier of x50 · Machine tags from other cake items increase multiplier by +10 · Machine tags from the following items also increase multiplier by +10 · Red Velvet Cake · Chocolate Cupcake · Blueberry Pie · Strawberry Cake · Caramel Birthday Cake",
       "Drawbacks": "Caps at x100",
@@ -16525,7 +16526,7 @@
       "Ramp": "A track that'll inevitably reach new heights, just not quickly",
       "Cross": "A nifty component used to allow 2 different tracks to intersect. There's no stoplight tracks so please be safe",
       "Start": "A minecart just waiting to go on an adventure!",
-      "End": "The grand ending to Cart Ride Through Two Player Gun Factory Tycoon (While it's on fire!)",
+      "End": "The grand ending to Cart Ride Through Two Player Gun Factory Tycoon (While it's on fire!)"
     },
     "category": "Decoration",
     "tier": "Fabled",
@@ -17015,9 +17016,8 @@
       "Effects": "Processes ore at (Life÷2)x its value",
       "Created By": "SeenVerge · SoberBrew, Crushieyot · S_tarlit · PokemonMaster8619",
       "Sacrifice Proof": "No",
-      "Drawbacks": "Multiplier caps at x22,500"
+      "Drawbacks": "Multiplier caps at x22,500",
       "Reborn Proof": "Yes",
-      "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy"
     }
@@ -17094,7 +17094,7 @@
     "name": "Nebula System",
     "description": {
       "Ore Nebula": "A device that harnesses the power of a nebula to move massive amounts of ore. Requires a Nebula Receiver. Replaces Ore Pulsars. 2016 Black Friday Artifact Reward.",
-      "Nebula Receiver": "Receives ore from the Ore Nebula. 2016 Black Friday Artifact reward.",
+      "Nebula Receiver": "Receives ore from the Ore Nebula. 2016 Black Friday Artifact reward."
     },
     "category": "Utility",
     "tier": "Fabled",
@@ -18051,7 +18051,7 @@
     "name": "Orange Teleporter",
     "description": {
       "Sender": "A special teleporter that teleporters ores to orange teleport receivers. Requires receivers to function",
-      "Receiver": "A special teleport receiver that accepts ores from yellow teleporters only.",
+      "Receiver": "A special teleport receiver that accepts ores from yellow teleporters only."
     },
     "category": "Utility",
     "tier": "Premium",
@@ -19166,33 +19166,6 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
-      "Drawbacks": "35? Second cooldown · Not resettable",
-      "Categories": "Utility"
-    }
-  },
-    {
-    "id": null,
-    "name": "Renegade Ore Supernova",
-    "description": "The Ore Supernova grants a massive upgrade to all dropped ores when activated. Ores can only be upgraded by it once.",
-    "category": "Upgrader",
-    "tier": "Renegade",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/77/Ore_Supernova.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Supernova",
-    "properties": {
-      "Tier": "Renegade",
-      "Item Size": "3x4x3",
-      "Date Added": "25 June, 2024",
-      "Created By": "OutOfOrderFoxy",
-      "Effects": "Multiplies ore value by 20x · Gives Gargantium Mine ores immunity from fire",
-      "Source": "Converted by the Everlasting Key.",
-      "Life Required": "2+",
-      "Upgrade Limit": "1",
-      "Upgrade Counter": "10",
-      "Reborn Proof": "Yes",
-      "Sacrifice Proof": "No",
-      "Sell Value": "Can't Sell",
-      "Cost": "Can't Buy",
       "Bok Multiplier": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
       "Drawbacks": "35? Second cooldown · Not resettable",
       "Categories": "Utility"
@@ -20317,11 +20290,11 @@
     "name": "PIZZA DOGE",
     "description": "NOM NOM* Pizza Doge, you're such a good boy! *MUNCH*",
     "category": "Decoration",
-    "tier": "CollectiblePizza",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/38/PIZZA_DOGE.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/PIZZA_DOGE",
     "properties": {
-      "Tier": "CollectiblePizza",
+      "Tier": "Collectible",
       "Item Size": "2x2x2",
       "Date Added": "19 March, 2019",
       "Created By": "lucaduke · lucaduke",
@@ -20339,11 +20312,11 @@
     "name": "Pizza Flood Light",
     "description": "I'll be real with you, I've run out of ways to rationalize the existence of these monstrocities [sic]. It's a freaking pizza floodlight. Don't ask questions that don't need to be asked.",
     "category": "Decoration",
-    "tier": "CollectiblePizza",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d1/Pizza_Flood_Light.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Flood_Light",
     "properties": {
-      "Tier": "CollectiblePizza",
+      "Tier": "Collectible",
       "Item Size": "4x4x5",
       "Date Added": "19 March, 2019",
       "Created By": "Frenzzyy",
@@ -20364,11 +20337,11 @@
       "Pizza Crust Corner Flooring": "Mmmmmm nostalgic, almost accurate pizza slice."
     },
     "category": "Decoration",
-    "tier": "CollectiblePizza",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/19/Pizza_Flooring.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Flooring",
     "properties": {
-      "Tier": "CollectiblePizza",
+      "Tier": "Collectible",
       "Item Size": "1x1x1",
       "Date Added": "12 June, 2020",
       "Created By": "[https://www.roblox.com/users/594119981/profile fortnitekid4792] ([https://www.roblox.com/users/23032307/profile Frenzzyy]'s alter-ego)",
@@ -20460,11 +20433,11 @@
     "name": "Pizza Research Center",
     "description": "Harness the awesome power of wheat, tomato and cheddar to produce 75 points every 40 flaming ore.",
     "category": "Furnace",
-    "tier": "CollectiblePizza",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e0/Pizza_Research_Center.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Research_Center",
     "properties": {
-      "Tier": "CollectiblePizza",
+      "Tier": "Collectible",
       "Item Size": "4x4x2",
       "Date Added": "19 March, 2019",
       "Created By": "elementninja645",
@@ -20483,11 +20456,11 @@
     "name": "Pizza Slice Wall",
     "description": "Show the kids next door how cheesy you get with a giant cheese wall",
     "category": "Decoration",
-    "tier": "CollectiblePizza",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f8/Pizza_Slice_Wall.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Slice_Wall",
     "properties": {
-      "Tier": "CollectiblePizza",
+      "Tier": "Collectible",
       "Item Size": "3x8x8",
       "Date Added": "19 March, 2019",
       "Created By": "Frenzzyy",
@@ -20508,7 +20481,7 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Pizzapreneur_Wall.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizzapreneur_Wall",
     "properties": {
-      "Tier": "CollectiblePizza",
+      "Tier": "Collectible",
       "Item Size": "4x8x8",
       "Date Added": "19 March, 2019",
       "Created By": "Frenzzyy · demonholics",
@@ -21932,7 +21905,7 @@
       "Tier": "Decimal Limited Reborn",
       "Item Size": "13x12x10",
       "Date Added": "12 June, 2020",
-      "Created By": "Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
+      "Created By": "· Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
       "Item Events": "5th Anniversary · 6th Anniversary · 7th Anniversary · 8th Anniversary · 9th Anniversary · 10th Anniversary",
       "Effects": "Base multiplier of x500 · Multiplier +1 for every life the user has surpassed · Multiplier +5.5k if King Birthday Cake Machine tag is present",
       "Drawbacks": "Life-affected multiplier caps at x5.5k (Life 5k) · Max total multiplier of x11k",
@@ -22198,7 +22171,7 @@
     "name": "Raised Furnace",
     "description": "An unstable furnace that can only be reached with a raised conveyor. Processes ore at six times their value.",
     "category": "Furnace",
-    "tier": "RAre",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/81/Raised_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Raised_Furnace",
     "properties": {
@@ -22832,7 +22805,7 @@
       "Straight": "A road.",
       "Turned": "A road. It turns.",
       "Crossroad": "A road. On all direction.",
-      "T-Road": "A road. It looks like a T.",
+      "T-Road": "A road. It looks like a T."
     },
     "category": "Decoration",
     "tier": "Fabled",
@@ -23378,7 +23351,7 @@
     "name": "Sandshark",
     "description": {
       "Sender": "Similar to the Goliath Skulls, the remains of these sand sharks have seen to open a link between each other.",
-      "Receiver": "While it does upgrade the ore through teleporting, unfortunately ores are so dry that they combust upon exiting.",
+      "Receiver": "While it does upgrade the ore through teleporting, unfortunately ores are so dry that they combust upon exiting."
     },
     "category": "Upgrader",
     "tier": "Eggxotic",
@@ -24254,7 +24227,7 @@
     "name": "Shortcake Teleporter",
     "description": {
       "Sender": "Teleport your ores in tasty fruity style. Requires the Shortcake Teleporter Receiver.",
-      "Receiver": "A 3rd Anniversary teleporter for a sweet-toothed owner. Requires the Shortcake Teleporter Sender.",
+      "Receiver": "A 3rd Anniversary teleporter for a sweet-toothed owner. Requires the Shortcake Teleporter Sender."
     },
     "category": "Utility",
     "tier": "CollectibleBirthday",
@@ -24466,7 +24439,7 @@
       "Tier": "Renegade",
       "Item Size": "5x8x7",
       "Date Added": "25 June, 2024",
-      "Created By": "{{#dpl:debug=0 · allowcachedresults=true · uses=Template:CreatedBy · title={{ROOTPAGENAME",
+      "Created By": "SeenVerge",
       "Effects": "Multiply ore value by x10k.",
       "Drawbacks": "30% chance to square root ore value. · Requires Ore Cannon.",
       "Source": "Converted by the Everlasting Key.",
@@ -28234,28 +28207,6 @@
       "Effects": "Base multiplier of x7B, increase by x7B every time an ore is processed. · ---- · Maximum cap of x350T"
     }
   },
-    {
-    "id": null,
-    "name": "Renegade The Great Parasite",
-    "description": "The Great Parasite is greedy, and requires additional ore from your base to feast upon.",
-    "category": "Furnace",
-    "tier": "Renegade",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/39/The_Great_Parasite.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/The_Great_Parasite",
-    "properties": {
-      "Tier": "Renegade",
-      "Source": "Converted by the Everlasting Key.",
-      "Item Size": "6x5x7",
-      "Reborn Proof": "Yes",
-      "Sacrifice Proof": "No",
-      "Sell Value": "Can't Sell",
-      "Cost": "Can't Buy",
-      "Created By": "Lawlzwuff",
-      "Date Added": "25 June, 2024",
-      "Life Required": "10,000+",
-      "Effects": "Base multiplier of x7B, increase by x7B every time an ore is processed. · ---- · Maximum cap of x350T"
-    }
-  },
   {
     "id": 496,
     "name": "The Guillotine",
@@ -29533,7 +29484,7 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cf/Turtle_Dignifier.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Turtle_Dignifier",
     "properties": {
-      "Tier": "Rare Reborn",
+      "Tier": "Decimal Reborn",
       "Created By": "Supz_Boi",
       "Item Size": "5x6x3",
       "Date Added": "12 June, 2021",
@@ -30072,7 +30023,7 @@
     "name": "Valentine's Teleporter",
     "description": {
       "Sender": "A pretty wholesome teleporter.. sender! Available during the 2020 Valentine's Event.",
-      "Receiver": "A pretty wholesome teleporter! Available during the 2020 Valentine's Event.",
+      "Receiver": "A pretty wholesome teleporter! Available during the 2020 Valentine's Event."
     },
     "category": "Utility",
     "tier": "CollectibleValentines",
@@ -30315,7 +30266,7 @@
       "Conveyor Elevation": "Ground",
       "Upgrade Counter": "2",
       "Effects": "*Base multiplier of 6x · *Multiplier increased by +1 for every other Vesteria Alpha Supporter",
-      "Source": "Owning the \"''Alpha Supporter''\" badge from [https://www.roblox.com/games/2376885433/Vesteria Vesteria]",
+      "Source": "Owning the \"''Alpha Supporter''\" badge from [Vesteria]",
       "Reborn Proof": "Yes",
       "Soulbound": "Yes",
       "Upgrade Limit": "1 (Resettable)",
@@ -30499,7 +30450,7 @@
       "Effects": "*Multiplies ore value by x100. · *Gives ores 15 shields. · *Ores become incredibly dense. · *Ores become neon black.",
       "Drawbacks": "Voided: · *Cannot be removed. · *Ore is destroyed after 3 seconds. · *Instantly kills ores that enter it more than once. · *Reduces Elysium Solemnity multiplier by 100k. · *Ore can't be pulsar-activated with Devourer of Nightmares · Incompatible with: · *Duplicators. · *Teleporters. · *Daestrophe. · *Ancient Magic.",
       "Source": "The Craftsman",
-      "Requirements": "18px · link=https://www.roblox.com/badges/2124495069/The-Void [https://www.roblox.com/badges/2124495069/The-Void The Void] Badge · Eternal Limbo x1 · Overlord Device x10 · Hydra Blaster x1 · Void Star x1 · Overlord's Telamonster x1 · The Daegelart x1 · Dystopian Refiner x1 · Crystallized Engine x3 · 2,000 Shards",
+      "Requirements": "[The Void] Badge · Eternal Limbo x1 · Overlord Device x10 · Hydra Blaster x1 · Void Star x1 · Overlord's Telamonster x1 · The Daegelart x1 · Dystopian Refiner x1 · Crystallized Engine x3 · 2,000 Shards",
       "Conveyor Speed": "350%",
       "Conveyor Wall": "Yes",
       "Conveyor Elevation": "Ground",
@@ -30758,7 +30709,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Source": "Redeems at Flea Bag",
-      "Requirements": "Disco Egg Badge","
+      "Requirements": "Disco Egg Badge"
     }
   },
   {
