@@ -12912,35 +12912,6 @@
     }
   },
   {
-    "id": 596,
-    "name": "Havium Mine",
-    "description": "Born underground, grown inside a rocky womb. The earth is our cradle; the mountains shall become our tomb. Face us on the battlefield; you will meet your doom. We do not fear what lies beneath. We can never dig too deep.",
-    "category": "Dropper",
-    "tier": "Superstitious",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/11/Havium_Mine.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Havium_Mine",
-    "properties": {
-      "Overview": "The Havium Mine is a [https://minershaven.fandom.com/wiki/Category:Superstitious Superstitious]-[https://minershaven.fandom.com/wiki/Item_Tiers tier] [https://minershaven.fandom.com/wiki/Category:Mine mine] added in the [https://minershaven.fandom.com/wiki/Category:Mine Reincarnation Update]. This mine's ores have the highest value in game and in addition to that, several bonus properties including immunity to poison, frostbite and radiation. The ore is also protected by 3 shields, a powerful attribute shared only by the [https://minershaven.fandom.com/wiki/Category:Mine SpookBaron-360,000]. These shields protect the ore from getting destroyed by anything except educators such as the [https://minershaven.fandom.com/wiki/Draedon%27s_Gauntlet Draedon's Gauntlet]. All the 3 shields can be removed by the [https://minershaven.fandom.com/wiki/Witch%27s_Cauldron Witch's Cauldron], an [https://minershaven.fandom.com/wiki/Ore_Sawmill Ore Sawmill] or [https://minershaven.fandom.com/wiki/Ore_Chainsaw its successor].\n\nAs Havium ores are immune to poison, frostbite and radiation, they do not work with upgraders that require these attributes to work.\n\nUpon placement, it emits the sound of torches being lit. This sound is shared with Pandora's Box.\n\nThis mine is based off of the now dead God of Earth in Miner's Haven lore, {{Color|#d83bff|[https://minershaven.fandom.com/wiki/Atalia Atalia]}}.",
-      "Tier": "Superstitious",
-      "Item Size": "6x7x8",
-      "Created By": "TheBlueMac55",
-      "Drop Rate": "1 ore/0.3s",
-      "Ore Size": "1x1x1",
-      "Ore Value": "$20sx to $300sx",
-      "Ore Material": "Neon",
-      "Effects": "'''Bonus attributes to ores:'''\n\n* {{Color|#d12bff|Poison}}, {{Color|#2bff41|Radiation}}, and {{Color|#3bfffc|Frostbite}} immunity\n* 3 shields that protect against {{Color|#ff3b3b|destruction}}",
-      "Drawbacks": "'''Certain items remove all shields:'''\n\n* [https://minershaven.fandom.com/wiki/Witch%27s_Cauldron Witch's Cauldron]\n* [https://minershaven.fandom.com/wiki/Ore_Sawmill Ore Sawmill]\n* [https://minershaven.fandom.com/wiki/Ore_Chainsaw Ore Chainsaw]",
-      "Source": "Using the Catalyst of Earth and elements from Reborn-tier items with Draedon",
-      "Upgrade Counter": "20",
-      "Cell Furnace": "Incompatible",
-      "Reborn Proof": "Yes",
-      "Sacrifice Proof": "No",
-      "Cost": "Can't Buy",
-      "Sell Value": "Can't Sell",
-      "Catalyst": "Catalyst of Earth"
-    }
-  },
-  {
     "id": 835,
     "name": "Headless Horseman (Item)",
     "description": "A relic from the 2015 Halloween Event, the Headless Horseman stands in your base and scares anyone who sees him.",
