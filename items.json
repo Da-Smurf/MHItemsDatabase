@@ -6097,15 +6097,15 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/be/Daestrophe.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Daestrophe",
     "properties": {
-      "Overview": "The Daestrophe is a <a href='https://minershaven.fandom.com/wiki/Category:Superstitious'>Superstitious</a>-<a href='https://minershaven.fandom.com/wiki/Item_Tiers'>tier</a> resetting device added in the <a href='https://minershaven.fandom.com/wiki/Reincarnation_Update'>Reincarnation Update</a>, based off of the god of Void, <a href='https://minershaven.fandom.com/wiki/Daegel' style='color:#ff3b30'>Daegel</a>.\n\nThe Daestrophe acts as another <a href='https://minershaven.fandom.com/wiki/Resetting_Device'>Resetting Device</a>, resetting all Machine tags for that ore. It also multiplies ore value by x100 with an additional x2 if the ore is on fire for a total of x200.\n\nThis upgrader is required to open the gate to The Heart of the Void, upgrading an ore from <a href='https://minershaven.fandom.com/wiki/The_Daegelart'>The Daegelart</a> to be processed in an <a href='https://minershaven.fandom.com/wiki/Eternal_Limbo'>Eternal Limbo</a>.\n\nUpon placement, a <span style='color:#ff0000'>loud and deep laugh accompanied by thunder</span> sound is heard across the server.",
+      "Overview": "The Daestrophe is a [https://minershaven.fandom.com/wiki/Category:Superstitious Superstitious]-tier resetting device added in the [https://minershaven.fandom.com/wiki/Reincarnation_Update Reincarnation Update], based off of the god of Void, {{Color|#ff3b30|[https://minershaven.fandom.com/wiki/Daegel Daegel]}}.\n\nThe Daestrophe acts as another [https://minershaven.fandom.com/wiki/Resetting_Device Resetting Device], resetting all Machine tags for that ore. It also multiplies ore value by x100 with an additional x2 if the ore is on fire for a total of x200.\n\nThis upgrader is required to open the gate to The Heart of the Void, upgrading an ore from [https://minershaven.fandom.com/wiki/The_Daegelart The Daegelart] to be processed in an [https://minershaven.fandom.com/wiki/Eternal_Limbo Eternal Limbo].\n\nUpon placement, a {{Color|#ff0000|loud and deep laugh accompanied by thunder}} sound is heard across the server.",
       "Tier": "Superstitious",
       "Item Size": "6x10x4",
       "Created By": "• auxinite\n• hoshiisan",
       "Conveyor Speed": "800%+",
       "Conveyor Wall": "Yes",
       "Conveyor Elevation": "Ground",
-      "Effects": "<span style='color:#fcba03;'>•&nbsp;</span> Resets Machine tags\n <span style='color:#fcba03;'>•&nbsp;</span> Resets Status effects\n\n<hr> <span style='color:#fcba03;'>•&nbsp;</span> Multiplies ores by x100 \n<span style='color:#fcba03;'>•&nbsp;</span> '''If ore is on <span style='color:#ff0000'>fire</span>''': · Additional x2 (x200 total)",
-      "Drawbacks": "<span style='color:#fcba03;'>•&nbsp;</span> Incompatible with <strong>Void Drive</strong>\n<span style='color:#fcba03;'>•&nbsp;</span> Reduces Elysium Solemnity multiplier by 100,000",
+      "Effects": "* Resets Machine tags\n* Resets Status effects\n* Multiplies ores by x100\n* '''If ore is on {{Color|#ff0000|fire}}''': Additional x2 (x200 total)",
+      "Drawbacks": "* Incompatible with {{Glow|'''Void Drive'''}}\n* Reduces Elysium Solemnity multiplier by 100,000",
       "Source": "Using the Catalyst of Void and elements from Reborn-tier items with Draedon",
       "Upgrade Limit": "1 (Incompatible with Resetting Devices)",
       "Upgrade Counter": "50",
@@ -6114,7 +6114,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Catalyst": "Catalyst of Void",
-      "Bok Multiplier": "Elysium Solemnity -100,000",
+      "Affects these Items/Multipliers": "Elysium Solemnity -100,000",
       "Categories": "Resetting Device"
     }
   },
@@ -6568,11 +6568,11 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/05/Delta_Phantom.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Delta_Phantom",
     "properties": {
-      "Overview": "The Delta Phantom is a <a href='https://minershaven.fandom.com/wiki/Category:Superstitious'>Superstitious</a>-<a href='https://minershaven.fandom.com/wiki/Item_Tiers'>tier</a> upgrader added in the <a href='https://minershaven.fandom.com/wiki/Reincarnation_Update'>Reincarnation Update</a>.\n\nThe first 10 ores that pass through the Delta Phantom are all absorbed into the Delta signpiece, causing it to become increasingly neon pink. When the 11th ore travels through, all of the ores are released with a x100 multiplier, as well as the 11th ore receiving a x50 boost, for a total of x5000; the signpiece returns to a completely black colour. However, this 11th ore receives pink flames which will destroy the ore in 4 seconds unless extinguished.\n\n<span style='color:#ffffff;'><u><b>WARNING:</b></u></span> Ores absorbed by the Delta Phantom do not count towards the ore limit. When your ore limit is maxed out, it will <u><b>NOT</b></u> eject the stored ores.",
+      "Overview": "The Delta Phantom is a [https://minershaven.fandom.com/wiki/Category:Superstitious Superstitious]-tier upgrader added in the [https://minershaven.fandom.com/wiki/Reincarnation_Update Reincarnation Update].\n\nThe first 10 ores that pass through the Delta Phantom are all absorbed into the Delta signpiece, causing it to become increasingly neon pink. When the 11th ore travels through, all of the ores are released with a x100 multiplier, as well as the 11th ore receiving a x50 boost, for a total of x5000; the signpiece returns to a completely black colour. However, this 11th ore receives pink flames which will destroy the ore in 4 seconds unless extinguished.\n\n{{Warning|'''WARNING:'''}} Ores absorbed by the Delta Phantom do not count towards the ore limit. When your ore limit is maxed out, it will '''NOT''' eject the stored ores.",
       "Tier": "Superstitious",
       "Item Size": "6x8x5",
       "Created By": "Frenzzyy",
-      "Effects": "<b>First 10 ores</b>:\n <span style='color:#fcba03;'>•&nbsp;</span> Value multiplied by x100.\n <span style='color:#fcba03;'>•&nbsp;</span> Absorbed into item.\n\n <hr> <span style='color:#fcba03;'>•&nbsp;</span> 11th ore: · <strong>Releases absorbed ore.</strong>\n <span style='color:#fcba03;'>•&nbsp;</span> Additional x50 (x5000 total).\n <span style='color:#fcba03;'>•&nbsp;</span> Set on <span style='color:#ff0000'>fire</span>.\n <span style='color:#fcba03;'>•&nbsp;</span> Turns ore <span style='color:#FF13F0'>neon pink</span>.",
+      "Effects": "'''First 10 ores:'''\n* Value multiplied by x100.\n* Absorbed into item.\n\n'''11th ore:'''\n* '''Releases absorbed ore.'''\n* Additional x50 (x5000 total).\n* Set on {{Color|#ff0000|fire}}.\n* Turns ore {{Color|#FF13F0|neon pink}}.",
       "Drawbacks": "Fire destroys 11th ore in 4 seconds.",
       "Source": "Using the Catalyst of Spirits and elements from Reborn-tier items with Draedon",
       "Conveyor Speed": "100%",
@@ -6585,7 +6585,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Catalyst": "Catalyst of Spirits",
-      "MPU": "x2.15 · x4.14 (11th ore)"
+      "MPU": "x2.15 (Minimum) · x4.14 (Every 11th ore)"
     }
   },
   {
@@ -12888,6 +12888,35 @@
       "Ore Material": "Neon",
       "Effects": "<b>Bonus attributes to ores:\n</b><ol><span style='color:#fcba03;'>•&nbsp;</span> Immune to <span style='color:#d12bff'>Poison</span>, <span style='color:#2bff41'>Radiation</span>, and <span style='color:#3bfffc'>Frostbite</span> \n <span style='color:#fcba03;'>•&nbsp;</span> 3 shields that protect against <span style='color:#ff3b3b'>destruction</span></ol>",
       "Drawbacks": "<b>Certain items remove all shields:</b><ol><span style='color:#fcba03;'>•&nbsp;</span> <a href='https://minershaven.fandom.com/wiki/Witch%27s_Cauldron'>Witch's Cauldron</a>\n <span style='color:#fcba03;'>•&nbsp;</span> <a href='https://minershaven.fandom.com/wiki/Ore_Sawmill'>Ore Sawmill</a>\n <span style='color:#fcba03;'>•&nbsp;</span> <a href='https://minershaven.fandom.com/wiki/Ore_Chainsaw'>Ore Chainsaw</a>",
+      "Source": "Using the Catalyst of Earth and elements from Reborn-tier items with Draedon",
+      "Upgrade Counter": "20",
+      "Cell Furnace": "Incompatible",
+      "Reborn Proof": "Yes",
+      "Sacrifice Proof": "No",
+      "Cost": "Can't Buy",
+      "Sell Value": "Can't Sell",
+      "Catalyst": "Catalyst of Earth"
+    }
+  },
+  {
+    "id": 596,
+    "name": "Havium Mine",
+    "description": "Born underground, grown inside a rocky womb. The earth is our cradle; the mountains shall become our tomb. Face us on the battlefield; you will meet your doom. We do not fear what lies beneath. We can never dig too deep.",
+    "category": "Dropper",
+    "tier": "Superstitious",
+    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/11/Havium_Mine.png",
+    "wikiUrl": "https://minershaven.fandom.com/wiki/Havium_Mine",
+    "properties": {
+      "Overview": "The Havium Mine is a [https://minershaven.fandom.com/wiki/Category:Superstitious Superstitious]-[https://minershaven.fandom.com/wiki/Item_Tiers tier] [https://minershaven.fandom.com/wiki/Category:Mine mine] added in the [https://minershaven.fandom.com/wiki/Category:Mine Reincarnation Update]. This mine's ores have the highest value in game and in addition to that, several bonus properties including immunity to poison, frostbite and radiation. The ore is also protected by 3 shields, a powerful attribute shared only by the [https://minershaven.fandom.com/wiki/Category:Mine SpookBaron-360,000]. These shields protect the ore from getting destroyed by anything except educators such as the [https://minershaven.fandom.com/wiki/Draedon%27s_Gauntlet Draedon's Gauntlet]. All the 3 shields can be removed by the [https://minershaven.fandom.com/wiki/Witch%27s_Cauldron Witch's Cauldron], an [https://minershaven.fandom.com/wiki/Ore_Sawmill Ore Sawmill] or [https://minershaven.fandom.com/wiki/Ore_Chainsaw its successor].\n\nAs Havium ores are immune to poison, frostbite and radiation, they do not work with upgraders that require these attributes to work.\n\nUpon placement, it emits the sound of torches being lit. This sound is shared with Pandora's Box.\n\nThis mine is based off of the now dead God of Earth in Miner's Haven lore, {{Color|#d83bff|[https://minershaven.fandom.com/wiki/Atalia Atalia]}}.",
+      "Tier": "Superstitious",
+      "Item Size": "6x7x8",
+      "Created By": "TheBlueMac55",
+      "Drop Rate": "1 ore/0.3s",
+      "Ore Size": "1x1x1",
+      "Ore Value": "$20sx to $300sx",
+      "Ore Material": "Neon",
+      "Effects": "'''Bonus attributes to ores:'''\n\n* {{Color|#d12bff|Poison}}, {{Color|#2bff41|Radiation}}, and {{Color|#3bfffc|Frostbite}} immunity\n* 3 shields that protect against {{Color|#ff3b3b|destruction}}",
+      "Drawbacks": "'''Certain items remove all shields:'''\n\n* [https://minershaven.fandom.com/wiki/Witch%27s_Cauldron Witch's Cauldron]\n* [https://minershaven.fandom.com/wiki/Ore_Sawmill Ore Sawmill]\n* [https://minershaven.fandom.com/wiki/Ore_Chainsaw Ore Chainsaw]",
       "Source": "Using the Catalyst of Earth and elements from Reborn-tier items with Draedon",
       "Upgrade Counter": "20",
       "Cell Furnace": "Incompatible",
