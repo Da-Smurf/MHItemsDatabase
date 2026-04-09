@@ -1,6 +1,6 @@
 # [moepu.boo](https://moepu.boo/)
 
-This wiki is powered by item data stored in [`data/items.json`](https://github.com/Moepu/MHItemsDatabase/blob/main/items.json). If you want to contribute, the main way to help is by submitting additions or fixes to that file.
+This wiki is powered by item data stored in [`data/items.json`](https://github.com/Moepu/MHItemsDatabase/blob/main/items.json). Imported periodically from [`api/items`](https://moepu.boo/api/items).
 
 ## How To Contribute
 
